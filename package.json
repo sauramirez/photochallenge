@@ -9,10 +9,16 @@
   "author": "Essau Ramirez",
   "license": "MIT",
   "dependencies": {
+    "ampersand-collection": "^1.5.0",
+    "ampersand-local-cache-mixin": "^3.0.2",
+    "ampersand-model": "^6.0.2",
+    "ampersand-state": "^4.6.0",
     "ampersand-view": "^8.0.1",
     "domready": "^1.0.8",
+    "exif-js": "^2.1.1",
     "leaflet": "^0.7.5",
-    "lodash.bind": "^3.1.0"
+    "lodash.bind": "^3.1.0",
+    "milliseconds": "^1.0.3"
   },
   "devDependencies": {
     "browserify": "^11.1.0"
