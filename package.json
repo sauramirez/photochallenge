@@ -1,0 +1,20 @@
+{
+  "name": "photo-challenge",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Essau Ramirez",
+  "license": "MIT",
+  "dependencies": {
+    "ampersand-view": "^8.0.1",
+    "domready": "^1.0.8",
+    "leaflet": "^0.7.5",
+    "lodash.bind": "^3.1.0"
+  },
+  "devDependencies": {
+    "browserify": "^11.1.0"
+  }
+}
